@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/Mouadasel/social-link-profile](https://github.com/Mouadasel/social_link_profile/)
-- Live Site URL: [https://mouadasel.github.io/social_link_profile/]((https://mouadasel.github.io/social_link_profile/)
+- Live Site URL: [https://mouadasel.github.io/social_link_profile/](https://mouadasel.github.io/social_link_profile/)
 
 ## My process
 
