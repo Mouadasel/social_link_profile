@@ -90,7 +90,7 @@ ol {
 .description {
   font-size: 14px;
   margin-bottom: 20px;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 /* List Styles */
@@ -102,7 +102,7 @@ ul {
 li {
   list-style: none;
   background-color: hsl(0, 0%, 20%);
-  padding: 10px;
+  padding: 12px;
   border-radius: 10px;
   font-weight: 600;
 }
