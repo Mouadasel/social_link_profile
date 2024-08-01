@@ -53,8 +53,6 @@ ol {
   margin: 92px auto;
   border-radius: 20px;
   padding: 40px 30px 20px;
-
-
 }
 @media (max-width: 375px) {
   .container {
@@ -63,7 +61,7 @@ ol {
   }
 }
 /* Image */
-.img {
+.image {
   border-radius: 50%;
   width: 100px;
   margin-bottom: 30px;
